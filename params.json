@@ -1,0 +1,6 @@
+{
+  "name": "Touchscale",
+  "tagline": "利用3D Touch开发的iPhone电子秤",
+  "body": "使用objective-c开发的一个小程序，利用iPhone的压力传感器将压力值转换成物体重量，欢迎下载交流\r\n联系我：http://www.chenlilong.com or http://weibo.com/leelongchen",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
